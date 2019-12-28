@@ -1,5 +1,5 @@
 # PlutoSDR
-FM receiving and broadcasting
+FM receiving and broadcasting; Time domain analysis and frequency domain analysis
 
 **Rx.m** works as a radio receiver. You can listen to all the commercial FM radio programs.
 
