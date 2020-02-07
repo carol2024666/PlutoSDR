@@ -1,4 +1,4 @@
-# 
+# PlutoSDR
 基于PlutoSDR平台的FM收发机，可实现FM音频信号的接收和广播；并从时域和频域分析了其性能。
 
 Rx.m 是FM收音机，你可以用它来收听任何频段的FM调频广播。  
@@ -10,7 +10,7 @@ Tx.m 是FM广播，默认发送的是Scarborough Fair.flac音频文件。你可�
 RT.M 是一个自发自收的程序。  
 演示视频链接：https://www.bilibili.com/video/av80869170/
 
-# PlutoSDR
+# 
 FM receiving and broadcasting; Time domain analysis and frequency domain analysis
 
 **Rx.m** works as a radio receiver. You can listen to all the commercial FM radio programs.
